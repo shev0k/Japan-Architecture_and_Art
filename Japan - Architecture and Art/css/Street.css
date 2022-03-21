@@ -1,0 +1,177 @@
+section{
+			border: 100px solid white;
+		}
+		
+		#S2{
+			border: 1px solid white;
+		}
+		
+			html{
+			position: relative;
+			min-height: 100%;
+		}
+		footer {
+			color: white;
+			background-color: #cc4a1e;
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			height: 25px;
+			width: 100%;
+			overflow: hidden;
+			text-align: center;
+}
+		
+		#L {
+			float: left;
+		}
+		
+		@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
+		
+.nav {
+    width: 100%;
+    height: 65px;
+    position: fixed;
+    line-height: 65px;
+    text-align: center;
+}
+
+.nav div.logo {
+    float: right;
+    width: auto;
+    height: auto;
+    padding-left: 3rem;
+}
+
+.nav div.logo a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+.nav div.logo a:hover {
+    color: #00E676;
+}
+
+.nav div.main_list {
+    height: 65px;
+}
+
+.nav div.main_list ul {
+    width: 100%;
+    height: 65px;
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav div.main_list ul li {
+    width: auto;
+	align: center;
+    height: 65px;
+    padding: 0;
+    padding-right: 3rem;
+}
+
+.nav div.main_list ul li a {
+    text-decoration: none;
+	align: center;
+    color: black;
+    line-height: 65px;
+    font-size: 2rem;
+}
+
+.nav div.main_list ul li a:hover {
+    color: ;
+}
+
+#FG{
+	padding: 10px;
+	display: block;
+	max-width:500px;
+	max-height:350px;
+	width: auto;
+	height: auto;
+}
+
+#Container{
+	max-width: auto;
+	margin: 0 auto;
+	background: #f9f9f9;
+	font-size: 24px;
+	padding: 25px;
+	padding: 0;
+}
+
+.parallax {
+    min-height: 350px;
+    background: transparent;
+}
+
+section{
+	padding: 10px;
+	margin: 0;
+}
+
+#S3{
+	align:center;
+	padding-left : 0px;
+}
+
+#H3{
+	left: 100px;
+}
+
+.zoom:hover {
+  transform: scale(1.5); 
+}
+
+.zoom {
+  transition: transform .2s;
+}
+
+.font_1 {
+	font: 	normal normal normal 
+			19px
+			georgia,palatino,'book antiqua','palatino linotype',serif ;
+			color:#FFFFFF;
+} 
+
+.font_2 {
+	font: 	normal normal normal 
+			85px/1.4em 
+			georgia,palatino,'book antiqua','palatino linotype',serif ;
+			color:#000000;
+} 
+
+.font_4 {
+	font: 	normal normal normal 
+			23px/1.4em 
+			futura-lt-w01-light,sans-serif ;
+			color:#000000;
+}
+
+.featurette-heading{
+  font-weight: 500;
+}
+
+.button{ 
+	style="text-decoration:none; 
+	display:inline-block; 
+	border:none; 
+	background-color:black;
+	color: white;
+	padding:14px 32px; 
+	margin:4px 2px; 
+	width:160px; 
+	cursor:pointer; 
+	height:50px;">
+    transition: 0.3s;
+}
+
+.button:hover {
+  background-color:#b3b3b3;
+  color: black;
+}
+			
